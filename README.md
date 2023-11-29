@@ -17,7 +17,7 @@ Detailed exploration of changes in athlete participation, gender dynamics, perfo
 
 ## File Description
 Project_2.ipynb: Jupyter Notebook containing the full analysis and visualizations.Download the file to view the entire visualization
-athlete_events.csv: Dataset file used for the analysis (Note: This file is referenced in the notebook but not included in the repository).
+athlete_events.csv: Dataset file used for the analysis
 
 ## Tools and Libraries Used
 Python
