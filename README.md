@@ -6,7 +6,7 @@
 This project explores the evolution of the Olympic Games from 1896 to 2016. Through data analysis and visualization, we delve into various aspects such as athlete demographics, performance enhancements, and changes in medal distributions. The aim is to uncover how the Olympics have transformed over time, reflecting broader shifts in global participation, gender dynamics, and athletic performance.
 
 ## Dataset
-The analysis is based on the athlete_events.csv file, which contains historical data on Olympic athletes, including their participating year, sport, country, gender, and medal outcomes.Download the file from https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history?select=athlete_events.csv
+The analysis is based on the athlete_events.csv file, which contains historical data on Olympic athletes, including their participating year, sport, country, gender, and medal outcomes.The csv file is a big file to be uploaded here so download the file from https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history?select=athlete_events.csv
 
 ## Key Features
 Data Cleaning: Comprehensive preprocessing of the Olympic dataset to ensure accuracy and reliability.
